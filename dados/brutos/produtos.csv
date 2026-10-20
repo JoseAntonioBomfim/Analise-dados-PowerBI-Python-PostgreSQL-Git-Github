@@ -1,0 +1,16 @@
+﻿produto_id,produto,categoria,custo_unitario,preco_lista
+1,Mouse sem fio,Informática,1027.41,1226.99
+2,Teclado USB,Informática,448.75,586.62
+3,Monitor 24 pol.,Informática,1181.52,1849.93
+4,SSD 480 GB,Informática,1428.78,1756.76
+5,Notebook básico,Informática,682.01,816.36
+6,Cadeira escritório,Escritório,359.2,527.32
+7,Mesa compacta,Escritório,54.14,70.02
+8,Papel A4,Escritório,1044.02,1556.23
+9,Caneta esferográfica,Escritório,362.06,548.84
+10,Organizador,Escritório,1297.38,1535.71
+11,Webcam HD,Acessórios,1291.64,2038.13
+12,Headset,Acessórios,552.32,700.69
+13,Cabo HDMI,Acessórios,1532.05,2101.76
+14,Hub USB,Acessórios,159.28,196.73
+15,Suporte notebook,Acessórios,1357.82,2069.49

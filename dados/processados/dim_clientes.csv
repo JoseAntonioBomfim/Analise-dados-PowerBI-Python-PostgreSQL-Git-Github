@@ -1,0 +1,181 @@
+﻿cliente_id,cliente,cidade,uf,segmento
+1,Cliente 001,Caruaru,PE,Pequena Empresa
+2,Cliente 002,Juazeiro,BA,Pessoa Física
+3,Cliente 003,Maringá,PR,Média Empresa
+4,Cliente 004,Sobral,CE,Pessoa Física
+5,Cliente 005,Salvador,BA,Média Empresa
+6,Cliente 006,Uberlândia,MG,Pessoa Física
+7,Cliente 007,Belo Horizonte,MG,Pequena Empresa
+8,Cliente 008,Londrina,PR,Média Empresa
+9,Cliente 009,Fortaleza,CE,Pequena Empresa
+10,Cliente 010,Fortaleza,CE,Média Empresa
+11,Cliente 011,Maringá,PR,Média Empresa
+12,Cliente 012,Feira de Santana,BA,Média Empresa
+13,Cliente 013,Santos,SP,Média Empresa
+14,Cliente 014,Belo Horizonte,MG,Pequena Empresa
+15,Cliente 015,Anápolis,GO,Média Empresa
+16,Cliente 016,Juiz de Fora,MG,Pequena Empresa
+17,Cliente 017,Petrolina,PE,Pessoa Física
+18,Cliente 018,Juazeiro do Norte,CE,Pequena Empresa
+19,Cliente 019,Salvador,BA,Média Empresa
+20,Cliente 020,Fortaleza,CE,Média Empresa
+21,Cliente 021,Caxias do Sul,RS,Média Empresa
+22,Cliente 022,Porto Alegre,RS,Pequena Empresa
+23,Cliente 023,São Paulo,SP,Média Empresa
+24,Cliente 024,Maringá,PR,Média Empresa
+25,Cliente 025,Rio Verde,GO,Pequena Empresa
+26,Cliente 026,Fortaleza,CE,Pessoa Física
+27,Cliente 027,Porto Alegre,RS,Pessoa Física
+28,Cliente 028,Salvador,BA,Média Empresa
+29,Cliente 029,Santos,SP,Pequena Empresa
+30,Cliente 030,Juazeiro,BA,Pequena Empresa
+31,Cliente 031,Pelotas,RS,Pequena Empresa
+32,Cliente 032,Caruaru,PE,Média Empresa
+33,Cliente 033,Feira de Santana,BA,Média Empresa
+34,Cliente 034,Maringá,PR,Pequena Empresa
+35,Cliente 035,Juazeiro,BA,Pequena Empresa
+36,Cliente 036,Campinas,SP,Pessoa Física
+37,Cliente 037,Maringá,PR,Pessoa Física
+38,Cliente 038,Feira de Santana,BA,Pequena Empresa
+39,Cliente 039,Belo Horizonte,MG,Pequena Empresa
+40,Cliente 040,Santos,SP,Média Empresa
+41,Cliente 041,Caruaru,PE,Pequena Empresa
+42,Cliente 042,Porto Alegre,RS,Pessoa Física
+43,Cliente 043,Juazeiro do Norte,CE,Pessoa Física
+44,Cliente 044,Petrolina,PE,Média Empresa
+45,Cliente 045,Salvador,BA,Média Empresa
+46,Cliente 046,Porto Alegre,RS,Média Empresa
+47,Cliente 047,São Paulo,SP,Média Empresa
+48,Cliente 048,Pelotas,RS,Pessoa Física
+49,Cliente 049,Maringá,PR,Média Empresa
+50,Cliente 050,Goiânia,GO,Média Empresa
+51,Cliente 051,Juiz de Fora,MG,Pequena Empresa
+52,Cliente 052,Rio Verde,GO,Média Empresa
+53,Cliente 053,Juazeiro do Norte,CE,Média Empresa
+54,Cliente 054,Porto Alegre,RS,Pessoa Física
+55,Cliente 055,Belo Horizonte,MG,Pequena Empresa
+56,Cliente 056,Caruaru,PE,Média Empresa
+57,Cliente 057,Juiz de Fora,MG,Pessoa Física
+58,Cliente 058,Petrolina,PE,Média Empresa
+59,Cliente 059,Petrolina,PE,Pessoa Física
+60,Cliente 060,Recife,PE,Pessoa Física
+61,Cliente 061,Uberlândia,MG,Média Empresa
+62,Cliente 062,Porto Alegre,RS,Média Empresa
+63,Cliente 063,Santos,SP,Média Empresa
+64,Cliente 064,Porto Alegre,RS,Pequena Empresa
+65,Cliente 065,Goiânia,GO,Pessoa Física
+66,Cliente 066,Feira de Santana,BA,Pequena Empresa
+67,Cliente 067,Juazeiro do Norte,CE,Pequena Empresa
+68,Cliente 068,Pelotas,RS,Pessoa Física
+69,Cliente 069,Salvador,BA,Pequena Empresa
+70,Cliente 070,Fortaleza,CE,Pessoa Física
+71,Cliente 071,Belo Horizonte,MG,Média Empresa
+72,Cliente 072,Porto Alegre,RS,Pequena Empresa
+73,Cliente 073,Campinas,SP,Pequena Empresa
+74,Cliente 074,Belo Horizonte,MG,Pequena Empresa
+75,Cliente 075,Salvador,BA,Média Empresa
+76,Cliente 076,Petrolina,PE,Pessoa Física
+77,Cliente 077,Campinas,SP,Pequena Empresa
+78,Cliente 078,Porto Alegre,RS,Pequena Empresa
+79,Cliente 079,Petrolina,PE,Pequena Empresa
+80,Cliente 080,Recife,PE,Pequena Empresa
+81,Cliente 081,Caxias do Sul,RS,Pequena Empresa
+82,Cliente 082,Porto Alegre,RS,Pessoa Física
+83,Cliente 083,Curitiba,PR,Pessoa Física
+84,Cliente 084,Caruaru,PE,Pequena Empresa
+85,Cliente 085,Petrolina,PE,Média Empresa
+86,Cliente 086,Pelotas,RS,Média Empresa
+87,Cliente 087,São Paulo,SP,Média Empresa
+88,Cliente 088,Salvador,BA,Pessoa Física
+89,Cliente 089,Feira de Santana,BA,Pessoa Física
+90,Cliente 090,Goiânia,GO,Média Empresa
+91,Cliente 091,Juiz de Fora,MG,Média Empresa
+92,Cliente 092,Caruaru,PE,Pessoa Física
+93,Cliente 093,Rio Verde,GO,Média Empresa
+94,Cliente 094,Juazeiro do Norte,CE,Pessoa Física
+95,Cliente 095,Fortaleza,CE,Pequena Empresa
+96,Cliente 096,Goiânia,GO,Média Empresa
+97,Cliente 097,Londrina,PR,Pequena Empresa
+98,Cliente 098,Salvador,BA,Pequena Empresa
+99,Cliente 099,Salvador,BA,Média Empresa
+100,Cliente 100,Juiz de Fora,MG,Pequena Empresa
+101,Cliente 101,Campinas,SP,Pessoa Física
+102,Cliente 102,Uberlândia,MG,Pequena Empresa
+103,Cliente 103,Campinas,SP,Média Empresa
+104,Cliente 104,Maringá,PR,Média Empresa
+105,Cliente 105,Caruaru,PE,Média Empresa
+106,Cliente 106,Maringá,PR,Pessoa Física
+107,Cliente 107,Campinas,SP,Pessoa Física
+108,Cliente 108,Feira de Santana,BA,Média Empresa
+109,Cliente 109,Campinas,SP,Pequena Empresa
+110,Cliente 110,Juiz de Fora,MG,Pequena Empresa
+111,Cliente 111,Juiz de Fora,MG,Média Empresa
+112,Cliente 112,Maringá,PR,Pequena Empresa
+113,Cliente 113,Curitiba,PR,Pessoa Física
+114,Cliente 114,Anápolis,GO,Pessoa Física
+115,Cliente 115,Recife,PE,Pessoa Física
+116,Cliente 116,Curitiba,PR,Média Empresa
+117,Cliente 117,Pelotas,RS,Média Empresa
+118,Cliente 118,Rio Verde,GO,Pessoa Física
+119,Cliente 119,Salvador,BA,Média Empresa
+120,Cliente 120,Santos,SP,Pessoa Física
+121,Cliente 121,Sobral,CE,Média Empresa
+122,Cliente 122,Campinas,SP,Pessoa Física
+123,Cliente 123,Recife,PE,Pequena Empresa
+124,Cliente 124,Recife,PE,Pessoa Física
+125,Cliente 125,Juiz de Fora,MG,Pessoa Física
+126,Cliente 126,Sobral,CE,Pequena Empresa
+127,Cliente 127,São Paulo,SP,Pessoa Física
+128,Cliente 128,Campinas,SP,Pessoa Física
+129,Cliente 129,Santos,SP,Pequena Empresa
+130,Cliente 130,Rio Verde,GO,Média Empresa
+131,Cliente 131,Uberlândia,MG,Pessoa Física
+132,Cliente 132,Juazeiro,BA,Pessoa Física
+133,Cliente 133,Porto Alegre,RS,Pessoa Física
+134,Cliente 134,Caxias do Sul,RS,Pequena Empresa
+135,Cliente 135,Belo Horizonte,MG,Pessoa Física
+136,Cliente 136,Uberlândia,MG,Pequena Empresa
+137,Cliente 137,Curitiba,PR,Pequena Empresa
+138,Cliente 138,Sobral,CE,Média Empresa
+139,Cliente 139,Rio Verde,GO,Média Empresa
+140,Cliente 140,Fortaleza,CE,Pessoa Física
+141,Cliente 141,Curitiba,PR,Média Empresa
+142,Cliente 142,Curitiba,PR,Pessoa Física
+143,Cliente 143,Anápolis,GO,Média Empresa
+144,Cliente 144,Juazeiro do Norte,CE,Média Empresa
+145,Cliente 145,Juazeiro,BA,Média Empresa
+146,Cliente 146,Uberlândia,MG,Pessoa Física
+147,Cliente 147,Goiânia,GO,Média Empresa
+148,Cliente 148,Uberlândia,MG,Pequena Empresa
+149,Cliente 149,Feira de Santana,BA,Pequena Empresa
+150,Cliente 150,Sobral,CE,Pessoa Física
+151,Cliente 151,Maringá,PR,Pequena Empresa
+152,Cliente 152,Anápolis,GO,Pequena Empresa
+153,Cliente 153,Maringá,PR,Pessoa Física
+154,Cliente 154,Uberlândia,MG,Média Empresa
+155,Cliente 155,Rio Verde,GO,Média Empresa
+156,Cliente 156,Santos,SP,Média Empresa
+157,Cliente 157,Londrina,PR,Média Empresa
+158,Cliente 158,Recife,PE,Pequena Empresa
+159,Cliente 159,Uberlândia,MG,Média Empresa
+160,Cliente 160,Juazeiro do Norte,CE,Pequena Empresa
+161,Cliente 161,Pelotas,RS,Pessoa Física
+162,Cliente 162,Pelotas,RS,Pessoa Física
+163,Cliente 163,Juazeiro,BA,Média Empresa
+164,Cliente 164,Fortaleza,CE,Pessoa Física
+165,Cliente 165,Curitiba,PR,Pessoa Física
+166,Cliente 166,São Paulo,SP,Pessoa Física
+167,Cliente 167,Uberlândia,MG,Média Empresa
+168,Cliente 168,Juazeiro,BA,Pequena Empresa
+169,Cliente 169,Juiz de Fora,MG,Média Empresa
+170,Cliente 170,Anápolis,GO,Pequena Empresa
+171,Cliente 171,Belo Horizonte,MG,Média Empresa
+172,Cliente 172,Petrolina,PE,Pequena Empresa
+173,Cliente 173,Belo Horizonte,MG,Média Empresa
+174,Cliente 174,Porto Alegre,RS,Média Empresa
+175,Cliente 175,Belo Horizonte,MG,Pequena Empresa
+176,Cliente 176,Campinas,SP,Média Empresa
+177,Cliente 177,Juazeiro do Norte,CE,Média Empresa
+178,Cliente 178,Rio Verde,GO,Pequena Empresa
+179,Cliente 179,Santos,SP,Pequena Empresa
+180,Cliente 180,Caxias do Sul,RS,Pessoa Física

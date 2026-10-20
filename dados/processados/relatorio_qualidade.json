@@ -1,0 +1,11 @@
+{
+  "linhas_entrada": 2346,
+  "linhas_saida": 2346,
+  "duplicadas_por_item_id_removidas": 0,
+  "linhas_com_chaves_ou_data_critica_nula_removidas": 0,
+  "linhas_sem_correspondencia_produto": 0,
+  "linhas_sem_correspondencia_segmento_cliente": 0,
+  "receita_liquida_total": 445815699.46,
+  "lucro_bruto_estimado_total": 442194091.76,
+  "observacao": "Dados simulados; lucro bruto estimado não é lucro líquido."
+}
