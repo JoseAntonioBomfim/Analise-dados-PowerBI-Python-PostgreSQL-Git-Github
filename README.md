@@ -57,7 +57,7 @@ O modelo sugerido para Power BI é um **esquema estrela**:
 ### 1. Baixe ou clone o repositório
 ```bash
 git clone https://github.com/SEU-USUARIO/VendasBR-Analise_dados.git
-cd VendasBR-Analytics
+cd VendasBR-Analise_dados
 ```
 
 ### 2. Crie um ambiente virtual
